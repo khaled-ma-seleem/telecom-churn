@@ -66,30 +66,30 @@ Customer churn is a critical issue for telecommunication companies, as it direct
 ![Churned Customers by Competitor](pictures/churned_customers_by_competitor.png)
 *The pie chart shows percentages of churned customers in the 'Competitor' group.*
 
-Competitor-related factors are the primary drivers of customer churn. Specifically, 20% of total churned customers left because a competitor made a better offer, while 17% switched due to competitors having better devices. Other significant factors include the attitude of support personnel (13%) and price-related issues (12%). This suggests that the company needs to focus on improving its competitive offerings, device quality, customer support, and pricing strategies to reduce churn.
+Competitor-related factors are the primary drivers of customer churn. Specifically, `20%` of total churned customers left because a competitor made a better offer, while `17%` switched due to competitors having better devices. Other significant factors include the attitude of support personnel (`13%`) and price-related issues (`12%`). This suggests that the company needs to focus on improving its competitive offerings, device quality, customer support, and pricing strategies to reduce churn.
 
 ## Is there a relationship between customer age and churn rate?
 
 ![Churn Rate by Age Groups](pictures/churn_rate_by_age_groups.png)
 
-There is a clear trend of increasing churn rates with customer age. The churn rate rises from 22% for the 19-28 age group to 44% for the 79-88 age group. However, the total number of customers is highest in the middle age ranges (29-58), with fewer customers in the youngest and oldest groups. This suggests that while older customers are more likely to churn, they represent a smaller portion of the customer base. The company needs to investigate further why older customers have higher churn rates and might want to develop targeted retention strategies for them while also focusing on the larger middle-aged customer segments.
+There is a clear trend of increasing churn rates with customer age. The churn rate rises from `22%` for the `19-28` age group to `44%` for the `79-88` age group. However, the total number of customers is highest in the middle age ranges (`29-58`), with fewer customers in the youngest and oldest groups. This suggests that while older customers are more likely to churn, they represent a smaller portion of the customer base. The company needs to investigate further why older customers have higher churn rates and might want to develop targeted retention strategies for them while also focusing on the larger middle-aged customer segments.
 
 ## Do data usage patterns influence customer churn?
 
 ![Churn Rate by Data Consumption (GB)](pictures/churn_rate_by_data_consumption_(gb).png)
 ![Total Customers by Data Consumption (GB)](pictures/total_customers_by_data_consumption_(gb).png)
 
-The majority of customers use less than 5 GB of data per month. Interestingly, customers without unlimited data plans have lower churn rates (16%) compared to those with unlimited plans (32%). However, for very high data users (40-45 GB), those without unlimited plans have very high churn rates (100%) compared to those with unlimited plans which have low churn rates (21%). This suggests that while unlimited plans may not be necessary for most customers, they are crucial for retaining high-data users. The company might consider offering tiered data plans to better match customer needs and reduce overall churn.
+The majority of customers use less than `5 GB` of data per month. Interestingly, customers without unlimited data plans have lower churn rates (`16%`) compared to those with unlimited plans (`32%`). However, for very high data users (`40-45 GB`), those without unlimited plans have very high churn rates (`100%`) compared to those with unlimited plans which have low churn rates (`21%`). This suggests that while unlimited plans may not be necessary for most customers, they are crucial for retaining high-data users. The company might consider offering tiered data plans to better match customer needs and reduce overall churn.
 
 ## What effect do account age and contract length have on churn rates?
 
 ![Churn Rate by Account Age (Months) and Contract Type](pictures/churn_rate_by_account_age_(months)_and_contract_type.png)
 ![Total Customers by Contract Type](pictures/total_customers_by_contract_type.png)
 
-The data shows that month-to-month contracts have significantly higher churn rates (74%) compared to one-year (12%) and two-year (3%) contracts. Churn rates are particularly high for newer accounts on month-to-month contracts, with 82% churn for accounts aged 1-12 months. As account age increases, churn rates generally decrease across all contract types. This indicates that encouraging customers to sign longer-term contracts and focusing on retaining customers through their first year could significantly reduce churn.
+The data shows that month-to-month contracts have significantly higher churn rates (`74%`) compared to one-year (`12%`) and two-year (`3%`) contracts. Churn rates are particularly high for newer accounts on month-to-month contracts, with `82%` churn for accounts aged `1-12 months`. As account age increases, churn rates generally decrease across all contract types. This indicates that encouraging customers to sign longer-term contracts and focusing on retaining customers through their first year could significantly reduce churn.
 
 ## How does having an international plan affect churn rates?
 
 ![Top 10 States by Churn Rate](pictures/top_10_states_by_churn_rate.png)
 
-In most states, customers with international plans have higher churn rates than those without. The difference is particularly pronounced in states like KY (50% vs 29%) and NH (63% vs 30%). However, some states like MT show the opposite trend with lower churn rates for those with international plans (0% vs 32%). This suggests that the international plan may not be meeting customer needs in many states, and the company should investigate why it's leading to higher churn rates, possibly by reviewing the plan's features and pricing in different regions.
+In most states, customers with international plans have higher churn rates than those without. The difference is particularly pronounced in states like KY (`50% vs 29%`) and NH (`63% vs 30%`). However, some states like MT show the opposite trend with lower churn rates for those with international plans (`0% vs 32%`). This suggests that the international plan may not be meeting customer needs in many states, and the company should investigate why it's leading to higher churn rates, possibly by reviewing the plan's features and pricing in different regions.
